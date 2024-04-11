@@ -1,0 +1,23 @@
+.main-con {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(199, 123, 16);
+    color: white;
+    height: 100vh;
+    padding: 10rem 0;
+}
+
+.title {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.plussym {
+    margin: 0 1rem;
+}
+
+.con-answer {
+    max-width: 30rem;
+}
